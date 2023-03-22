@@ -1,6 +1,6 @@
 # compiled output
 /dist
-/node_modules
+*/node_modules
 
 # Logs
 logs
@@ -37,3 +37,5 @@ lerna-debug.log*
 # ENV
 .env.development
 .env.production
+
+src/03_React_Project/build
